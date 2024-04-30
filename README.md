@@ -19,5 +19,5 @@ Here is the guide for installing Serenity for its maximum potential:
 **` Step 2 `** ・ Setup the bot with `>dashboard [module]`.
 - You can enable, disable, and configurate modules with this command. You can view all modules with `>modules`.
 
-**` Step 3 `** ・ Any questions? DM @alohaz on Discord.
+**` Step 3 `** ・ Any questions? DM @alohazzzzz on Discord.
 - We plan to open a support server, however it will not be available until release.
